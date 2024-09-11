@@ -10,7 +10,11 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 <a href="https://youtu.be/dQw4w9WgXcQ?si=6kPDRSe_KHNjGvAp">is there some chance?</a>
 
-<p class="pls" style="color:blue;font-size:46px;">mot aleatoire</p>
+
+mot aleatoire
+{: .pls}
+
+
 
 <p style="color:ref;font-size:46px;">mot aleatoire</p>
 
