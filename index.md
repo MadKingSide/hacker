@@ -10,7 +10,9 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 <a href="https://youtu.be/dQw4w9WgXcQ?si=6kPDRSe_KHNjGvAp">is there some chance?</a>
 
-<p id="pls_work" style="color:blue;font-size:46px;">mot aleatoire</p>
+<p class="pls" style="color:blue;font-size:46px;">mot aleatoire</p>
+
+<p style="color:ref;font-size:46px;">mot aleatoire</p>
 
 There should be whitespace between paragraphs.
 
