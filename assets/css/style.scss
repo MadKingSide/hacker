@@ -7,8 +7,9 @@ a {
  color:red;
 }
 
-.pls {
+.pls:active, .pls:hover {
 font-size:32px;
+border: 2px solid red;
 }
 
 p:active, p:hover {
