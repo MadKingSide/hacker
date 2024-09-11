@@ -6,6 +6,8 @@
 
 ![Thumbnail of Hacker](thumbnail.png)
 
+<p style="color:blue;font-size:46px;">mot aleatoire</p>
+
 ## Usage
 
 To use the Hacker theme:
