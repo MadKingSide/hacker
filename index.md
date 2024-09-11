@@ -6,6 +6,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
+[this should work maybe](https://youtu.be/dQw4w9WgXcQ?si=6kPDRSe_KHNjGvAp)
+
 <p id="pls_work" style="color:blue;font-size:46px;">mot aleatoire</p>
 
 There should be whitespace between paragraphs.
