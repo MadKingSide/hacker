@@ -8,6 +8,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [this should work maybe](https://youtu.be/dQw4w9WgXcQ?si=6kPDRSe_KHNjGvAp)
 
+<a href="https://youtu.be/dQw4w9WgXcQ?si=6kPDRSe_KHNjGvAp">is there some chance?</a>
+
 <p id="pls_work" style="color:blue;font-size:46px;">mot aleatoire</p>
 
 There should be whitespace between paragraphs.
