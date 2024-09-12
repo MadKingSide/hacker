@@ -4,14 +4,17 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html) {: .button1}
+[Link to another page](./another-page.html) 
+{: .button1}
 
-[this should work maybe](./another-page.html) {: .button2}
+[this should work maybe](./another-page.html) 
+{: .button2}
 
 <a href="https://youtu.be/dQw4w9WgXcQ?si=6kPDRSe_KHNjGvAp">is there some chance?</a>
 
 
-mot aleatoire {: .pls}
+mot aleatoire 
+{: .pls}
 
 
 
