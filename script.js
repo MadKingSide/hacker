@@ -11,13 +11,13 @@ button2.addEventListener("click", function() {
 });
 */
 
-let test = document.querySelector(".test");
-test.style.display="none";
 
 let image1 = document.querySelector(".image1");
 image1.src = "projects/3D/Tombeau/render_final_pillier_.jpg";
 
-image1.style.display="none";
+let image2 = document.querySelector(".image2");
+
+image2.style.display="none";
 
 let images = document.querySelector(".images");
 images.style.width = "100px";
