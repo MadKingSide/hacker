@@ -9,3 +9,9 @@ button1.addEventListener("click", function() {
 button2.addEventListener("click", function() {
     localStorage.setItem("number", "two");
 });
+
+let image1 = document.querySelector(".image1");
+image1.src = "projects/3D/Tombeau/render_final_pillier_.jpg";
+
+
+
