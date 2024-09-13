@@ -1,3 +1,4 @@
+/*
 let button1 = document.querySelector(".button1");
 let button2 = document.querySelector(".button2");
 
@@ -8,6 +9,7 @@ button1.addEventListener("click", function() {
 button2.addEventListener("click", function() {
     localStorage.setItem("number", "two");
 });
+*/
 
 let test = document.querySelector(".test");
 test.style.display="none";
