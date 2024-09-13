@@ -12,7 +12,7 @@ porject images
 {: .image1 .images}
 
 ![coffre](projects/3D/Tombeau/render_final_coffre.jpg) 
-{: .image1 .images}
+{: .image2 .images}
 
 ![coffre](projects/3D/Tombeau/render_final_pillier_.jpg) 
 {: .images}
