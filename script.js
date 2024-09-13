@@ -13,5 +13,7 @@ button2.addEventListener("click", function() {
 let image1 = document.querySelector(".image1");
 image1.src = "projects/3D/Tombeau/render_final_pillier_.jpg";
 
+image1.style.display="none";
+
 
 
