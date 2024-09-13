@@ -8,6 +8,9 @@ projected description
 
 porject images
 
+<img src="projects/3D/Tombeau/render_final_coffre.jpg">
+{: .image1 .images}
+
 ![coffre](projects/3D/Tombeau/render_final_coffre.jpg) 
 {: .image1 .images}
 
