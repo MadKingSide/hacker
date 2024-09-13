@@ -15,5 +15,6 @@ image1.src = "projects/3D/Tombeau/render_final_pillier_.jpg";
 
 image1.style.display="none";
 
-
+let images = document.querySelector(".images");
+images.style.width = "100px";
 
