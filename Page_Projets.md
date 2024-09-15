@@ -32,7 +32,11 @@ project videos
 
 app used
 
-[Retour à l'accueil](./)
+<a href="pages_pour_projets/pluie_tunnel.html" class="btn">Projet : Tombeau &#x2192;</a>
+
+<a href="pages_pour_projets/vous_etes_le_heros.html" class="btn">Projet : Tombeau &#x2192;</a>
+
+<a href="pages_pour_projets/Tombeau.html" class="btn">Projet : Tombeau &#x2192;</a>
 
 
-<a href="index.html" class="btn"> &#x2190; U+02190 &#8592; &larr; \2190 Accueil</a>
+<a href="index.html" class="btn"> &#x2190; Accueil</a>
