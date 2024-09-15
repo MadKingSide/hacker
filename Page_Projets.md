@@ -35,4 +35,4 @@ app used
 [Retour à l'accueil](./)
 
 
-<a href="index.html" class="btn"> :arrow_backward: Accueil</a>
+<a href="index.html" class="btn"> &#x2190; U+02190 &#8592; &larr; \2190 Accueil</a>
