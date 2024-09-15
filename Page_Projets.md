@@ -35,4 +35,4 @@ app used
 [Retour à l'accueil](./)
 
 
-<a href="index.html" class="btn"> <-Accueil</a>
+<a href="index.html" class="btn"> :arrow_backward: Accueil</a>
