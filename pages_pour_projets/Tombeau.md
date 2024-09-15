@@ -8,23 +8,21 @@ projected description
 
 porject images
 
-<img src="projects/3D/Tombeau/render_final_coffre.jpg">
-{: .image1 .images}
-
-![coffre](projects/3D/Tombeau/render_final_coffre.jpg) 
-{: .image2 .images}
-
-![coffre](projects/3D/Tombeau/render_final_pillier_.jpg) 
+<img src="../projects/3D/Tombeau/render_final_coffre.jpg">
 {: .images}
 
-![coffre](projects/3D/Tombeau/render_final_porte.jpg)
+<img src="../projects/3D/Tombeau/render_final_pillier.jpg">
 {: .images}
 
-![coffre](projects/3D/Tombeau/render_final_salle.jpg)
+<img src="../projects/3D/Tombeau/render_final_porte.jpg">
 {: .images}
 
-![coffre](projects/3D/Tombeau/render_final_sarcophage.jpg)
+<img src="../projects/3D/Tombeau/render_final_salle.jpg">
 {: .images}
+
+<img src="../projects/3D/Tombeau/render_final_sarcophage.jpg">
+{: .images}
+
 
 some blabla (?)
 
