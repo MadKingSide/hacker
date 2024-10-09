@@ -12,9 +12,8 @@ button2.addEventListener("click", function() {
 */
 
 // test zone
-document.querySelector(".image1").src = "projects/3D/Tombeau/render_final_porte.jpg";
 
-let image2 = document.querySelector(".image2");
+
 
 let images = document.querySelector(".images");
 images.style.width = "100px";
