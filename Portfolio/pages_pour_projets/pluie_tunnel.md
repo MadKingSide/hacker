@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Pluie Sous-Marine
 ---
 
 ## project name
