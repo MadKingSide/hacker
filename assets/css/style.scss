@@ -3,9 +3,7 @@
 
 @import 'jekyll-theme-hacker';
 
-a {
- color:red;
-}
+
 
 .pls:active, .pls:hover {
 font-size:32px;
@@ -21,7 +19,12 @@ color:purple;
     margin: 10px 0;
 }
 
+.btn {
+    text-align: right;
+}
+
 img.btn {
     padding: 0;
     overflow: hidden;
+    display: block;
 }
