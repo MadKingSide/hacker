@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## project name
+## project list
 
 projected description
 
