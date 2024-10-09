@@ -6,7 +6,7 @@ layout: default
 
 projected description
 
-<video width="50vw" controls autoplay loop>
+<video width="500px" controls autoplay loop>
   <source src="../assets/3D/Pluie_tunnel/underwater_tunnel.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
